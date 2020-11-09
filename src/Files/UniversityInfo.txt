@@ -1,0 +1,78 @@
+Bangladesh University of Engineering and Technology
+http://www.buet.ac.bd/Home/Admission
+4.0
+4.0
+8
+false
+United International University
+http://www.uiu.ac.bd/admission/
+2.5
+2.5
+6
+false
+Dhaka University
+http://admission.eis.du.ac.bd/
+3.5
+3.5
+8
+true
+Chittagong University of Science and Technology
+http://www.cuet.ac.bd/admission/
+4
+4
+8
+false
+Chittagong University
+http://admission.eis.cu.ac.bd/index.php?act=information/index
+3
+3
+6.5
+true
+Mawlana Bhashani Science and Technology University
+http://mbstu.ac.bd/index.html
+3
+3
+6
+false
+Rajshahi University of Engineering & Technology
+http://www.ruet.ac.bd/admission/
+4
+4
+8
+false
+Bangladesh Agriculture University
+http://admission.bau.edu.bd
+3
+3
+9
+false
+Khulna University
+www.ku.ac.bd
+4.5
+4.5
+9
+true
+Hajee Mohammad Danesh Science and Technology University
+http://www.hstu.ac.bd/
+3
+3
+6.5
+false
+Jahangirnagar University
+https://ju-admission.org/index/circular
+3.5
+3.5
+8
+true
+Sher-e-Bangla Agriculture University
+http://www.sau.edu.bd/index.php/pages/view_2/NzY=
+3
+3
+7
+true
+Brac University
+http://www.bracu.ac.bd/admissions/undergraduate
+3.5
+3.5
+7
+true
